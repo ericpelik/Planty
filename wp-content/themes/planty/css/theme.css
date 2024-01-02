@@ -16,3 +16,9 @@ p {
    transition: all 0.33s ease-in-out;
    transform: scale(1.05) translateY(-10px);
 }
+
+.commande-image {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+}
