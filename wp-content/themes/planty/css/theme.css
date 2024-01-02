@@ -17,8 +17,20 @@ p {
    transform: scale(1.05) translateY(-10px);
 }
 
-.commande-image {
+.form {
    display: flex;
    flex-direction: column;
-   justify-content: center;
+   justify-content: space-between;
+}
+
+.form-title {
+   color: white;
+   font-size: 20px;
+   line-height: 24px;
+}
+
+.form-image {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
 }
