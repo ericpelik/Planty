@@ -17,16 +17,3 @@ p {
    transform: scale(1.05) translateY(-10px);
 }
 
-.form {
-   display: flex;
-   flex-direction: column;
-}
-
-.form-fruit {
-   display: flex;
-}
-
-.form-card {
-   display: flex;
-   flex-direction: column;
-}

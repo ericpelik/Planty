@@ -14,17 +14,5 @@ Text Domain: planty
 /* Theme customization starts here
 -------------------------------------------------------------- */
 
-.form {
-    display: flex;
-    flex-direction: column;
- }
- 
- .form-fruit {
-    display: flex;
- }
- 
- .form-card {
-    display: flex;
-    flex-direction: column;
- }
+
  
