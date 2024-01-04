@@ -20,23 +20,13 @@ p {
 .form {
    display: flex;
    flex-direction: column;
-   justify-content: space-between;
 }
 
-.form-content {
-   color: white;
-   font-size: 20px;
-   line-height: 24px;
+.form-fruit {
+   display: flex;
 }
 
-.form-image {
+.form-card {
    display: flex;
    flex-direction: column;
-   justify-content: space-between;
-}
-
-hr {
-   color: white;
-   size: 1px;
-   align-content: center;
 }
